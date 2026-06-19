@@ -351,14 +351,6 @@ gradlew bootRun
 
 ---
 
-# 💼 Resume Project Description
-
-### Volunteer Connect – Volunteer Management System
-
-Developed a full-stack Volunteer Management Platform using Spring Boot, Spring Security, JWT Authentication, MySQL, JPA/Hibernate, Thymeleaf, HTML, CSS, and JavaScript. Implemented Role-Based Access Control (RBAC), volunteer registration, event management, attendance tracking, application workflows, dashboard analytics, and Excel report generation using Apache POI. Designed secure REST APIs with JWT authentication and documented endpoints using Swagger OpenAPI.
-
----
-
 # 🎯 Key Highlights
 
 ✔ Spring Boot 3 Architecture
